@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+There%2C+I+am+Echidna;They+Call+Me+The+Witch+of+Greed..." />
 <br><br>
 <pre>
-    <h1>💼 BSC @ UFMG • Back-end dev • Platform Engineer</h1>
+    <h1>💼 Yale Student, Backend and Systems Dev</h1>
     💻 System programming languages • DevOps 
     📖 Software architecture • Distributed systems
     🎮 Music • Games • Anime • Code • Art
