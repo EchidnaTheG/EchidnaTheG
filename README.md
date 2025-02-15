@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
+<img src="https://wall.alphacoders.com/big.php?i=1123188" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+There%2C+I+am+Echidna;They+Call+Me+The+Witch+of+Greed..." />
 <br><br>
 <pre>
@@ -12,6 +12,6 @@
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="120" width="120" />
 <br><br><br>
-    
+https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0    
 
 </div>
