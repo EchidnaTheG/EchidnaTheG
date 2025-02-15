@@ -10,7 +10,7 @@
     🐾 Sushi! 🐰 • Cake & Cookie & Red Velvet 🐤🐥
 </pre>
 <br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="120" width="80" />
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="120" width="120" />
 <br><br><br>
     
 
