@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-<img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+There%2C+I+am+Echidna;They+Call+Me+The+Witch+of+Greed...)](https://git.io/typing-svg)" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+There%2C+I+am+Echidna;They+Call+Me+The+Witch+of+Greed..." />
 <br><br>
 <pre>
     💼 BSC @ UFMG • Back-end dev • Platform Engineer
