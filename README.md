@@ -1,5 +1,5 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EchidnaTheG)](https://github.com/anuraghazra/github-readme-statsicons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EchidnaTheG-statsicons=true&theme=radical)
 - 👋 Hi, I'm a student who has a passion for programming.
 - 👀 I’m interested in all sorts of cool stuff! I love interacting with others and learning new stuff!
 - 🌱 I’m currently learning: Python, HTML, CSS, Javascript, React, Go, Rust, Java, Linux, Docker, Kubernetes and More!
