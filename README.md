@@ -5,9 +5,9 @@
 <pre>
     <h1>💼 Yale Student, Backend and Systems Dev</h1>
     💻 System programming languages • DevOps 
-    📖 Software architecture • Distributed systems
-    🎮 Music • Games • Anime • Code • Art
-    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
+    📖 Backend Development • Machine Learning
+    🎮 Music • Games • Anime • Code • Reading
+    🐾 Sushi! 🐰 • Cake & Cookie & Red Velvet 🐤🐥
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
