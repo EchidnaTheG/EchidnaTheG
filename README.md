@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+There%2C+I+am+Echidna;They+Call+Me+The+Witch+of+Greed..." />
 <br><br>
 <pre>
-    <h1>💼 Yale Student, Backend and Systems Dev</h1>
+    <h1>💼 Student, Backend and Systems Dev</h1>
     💻 System programming languages • DevOps 
     📖 Backend Development • Machine Learning
     🎮 Music • Games • Anime • Code • Reading
